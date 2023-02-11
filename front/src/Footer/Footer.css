@@ -1,0 +1,9 @@
+.Footer-site {
+   border: 1px solid rgb(133, 126, 126);
+   padding: 10px;
+   margin: 5px;
+}
+
+.Footer-site {
+   grid-area: f;
+}
